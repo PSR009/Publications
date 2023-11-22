@@ -1,2 +1,26 @@
-# Publications
-My publications and references
+# Publications and Conferences
+
+## Blogs and Whitepapers
+
+|Date  |  Title  |  Reference  |
+|:-:|:-:|:-:|
+|2023-Jan-11|  Calling from the Underground: An alternative way to penetrate corporate networks |  [Blog](https://www.seqrite.com/blog/calling-from-the-underground-an-alternative-way-to-penetrate-corporate-networks/)  |
+|2023-Feb-01|  Uncovering LockBit Black’s Attack Chain and Anti-forensic activity  |  [Seqrite](https://www.seqrite.com/blog/uncovering-lockbit-blacks-attack-chain-and-anti-forensic-activity/)  <br /> [Quick Heal](https://blogs.quickheal.com/uncovering-lockbit-blacks-attack-chain-and-anti-forensic-activity/)|
+|2023-Mar-15|  SideCopy Continues to Target Indian Defense Organization  |  [Whitepaper](https://www.seqrite.com/resources/sidecopy-continues-to-target-indian-defense-organization)  <br /> [IOCs](https://www.seqrite.com/documents/en/white-papers/iocs-list.pdf) <br /> [PDF](https://www.seqrite.com/documents/en/white-papers/sidecopy-continues-to-target-indian-defense-organization.pdf)|
+|2023-May-02|  Transparent Tribe APT actively lures Indian Army amidst increased targeting of Educational Institutions  |  [Blog](https://www.seqrite.com/blog/transparent-tribe-apt-actively-lures-indian-army-amidst-increased-targeting-of-educational-institutions/) <br /> [Whitepaper](https://www.seqrite.com/resources/transparent-tribe-apt-actively-lures-indian-army-amidst-increased-targeting-of-educational-institutions) <br /> [PDF](https://www.seqrite.com/documents/en/white-papers/whitepaper-transparent-tribe-apt.pdf)  |
+|2023-Jun-15|  Double Action, Triple Infection, and a New RAT: SideCopy’s Persistent Targeting of Indian Defence  | [Blog](https://www.seqrite.com/blog/double-action-triple-infection-and-a-new-rat-sidecopys-persistent-targeting-of-indian-defence/) <br /> [Whitepaper](https://www.seqrite.com/resources/double-action-triple-infection-and-a-new-rat-sidecopys-persistent-targeting-of-indian-defence) <br /> [PDF](https://www.seqrite.com/documents/en/white-papers/double-action-triple-infection-and-a-new-rat-sidecopys-persistent-targeting-of-indian-defence.pdf) |
+|2023-Sep-06|  New Warp Malware drops modified Stealerium Infostealer  |  [Blog](https://www.seqrite.com/blog/new-warp-malware-drops-modified-stealerium-infostealer/)  <br /> [Whitepaper](https://www.seqrite.com/resources/new-warp-malware-drops-modified-stealerium-infostealer)  <br /> [PDF](https://www.seqrite.com/documents/en/white-papers/new-warp-malware-drops-modified-stealerium-infostealer.pdf)  |
+|2023-Nov-06|  SideCopy’s Multi-platform Onslaught: Leveraging WinRAR Zero-Day and Linux Variant of Ares RAT  |  [Blog](https://www.seqrite.com/blog/sidecopys-multi-platform-onslaught-leveraging-winrar-zero-day-and-linux-variant-of-ares-rat/) <br /> [TheHackerNews](https://thehackernews.com/2023/11/sidecopy-exploiting-winrar-flaw-in.html)|
+
+## Speaker
+
+|Date  |  Conference  |  Title  |  Reference  |
+|:-:|:-:|:-:|:-:|
+|2022-Dec-01|  [AVAR 2022 Singapore](https://aavar.org/avar2022/) |  Indian Power Sector targeted with latest LockBit 3.0 variant  |  [Abstract](https://aavar.org/avar2022/index.php/indian-power-sector-targeted-with-latest-lockbit-3-0-variant/)  |
+|2023-Oct-07|  [c0c0n 2023 Kochi](https://india.c0c0n.org/2023/)  |  Evasion Tactics of SideCopy & APT36: Persistently targeting the Indian Defence Sector  |  [Official](https://www.linkedin.com/feed/update/urn:li:activity:7112009257146871808?utm_source=share&utm_medium=member_android)  |
+
+## Papers
+
+|Date  |  Publisher  |  Title  |  Reference  |
+|:-:|:-:|:-:|:-:|
+|2022-Dec-02|   Springer  |  Intruder Detection and Tracking Using Computer Vision and IoT  |  [Abstract](https://link.springer.com/chapter/10.1007/978-981-19-5550-1_44)  |
