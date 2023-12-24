@@ -11,13 +11,14 @@
 |2023-Jun-15|  Double Action, Triple Infection, and a New RAT: SideCopy’s Persistent Targeting of Indian Defence  | [Blog](https://www.seqrite.com/blog/double-action-triple-infection-and-a-new-rat-sidecopys-persistent-targeting-of-indian-defence/) <br /> [Whitepaper](https://www.seqrite.com/resources/double-action-triple-infection-and-a-new-rat-sidecopys-persistent-targeting-of-indian-defence) <br /> [PDF](https://www.seqrite.com/documents/en/white-papers/double-action-triple-infection-and-a-new-rat-sidecopys-persistent-targeting-of-indian-defence.pdf) |
 |2023-Sep-06|  New Warp Malware drops modified Stealerium Infostealer  |  [Blog](https://www.seqrite.com/blog/new-warp-malware-drops-modified-stealerium-infostealer/)  <br /> [Whitepaper](https://www.seqrite.com/resources/new-warp-malware-drops-modified-stealerium-infostealer)  <br /> [PDF](https://www.seqrite.com/documents/en/white-papers/new-warp-malware-drops-modified-stealerium-infostealer.pdf)  |
 |2023-Nov-06|  SideCopy’s Multi-platform Onslaught: Leveraging WinRAR Zero-Day and Linux Variant of Ares RAT  |  [Blog](https://www.seqrite.com/blog/sidecopys-multi-platform-onslaught-leveraging-winrar-zero-day-and-linux-variant-of-ares-rat/) <br /> [TheHackerNews](https://thehackernews.com/2023/11/sidecopy-exploiting-winrar-flaw-in.html)|
+|2023-Dec-21|  Operation RusticWeb targets Indian Govt: From Rust-based malware to Web-service exfiltration  |  [Blog](https://www.seqrite.com/blog/operation-rusticweb-targets-indian-govt-from-rust-based-malware-to-web-service-exfiltration/) <br /> [TheHackerNews](https://thehackernews.com/2023/12/operation-rusticweb-rust-based-malware.html)|
 
 ## Speaker
 
 |Date  |  Conference  |  Title  |  Reference  |
 |:-:|:-:|:-:|:-:|
 |2022-Dec-01|  [AVAR 2022 Singapore](https://aavar.org/avar2022/) |  Indian Power Sector targeted with latest LockBit 3.0 variant  |  [Abstract](https://aavar.org/avar2022/index.php/indian-power-sector-targeted-with-latest-lockbit-3-0-variant/)  |
-|2023-Oct-07|  [c0c0n 2023 Kochi](https://india.c0c0n.org/2023/)  |  Evasion Tactics of SideCopy & APT36: Persistently targeting the Indian Defence Sector  |  [Official](https://www.linkedin.com/feed/update/urn:li:activity:7112009257146871808?utm_source=share&utm_medium=member_android)  |
+|2023-Oct-07|  [c0c0n 2023 Kochi](https://india.c0c0n.org/2023/)  |  Evasion Tactics of SideCopy & APT36: Persistently targeting the Indian Defence Sector  |  [Post-1](https://www.linkedin.com/feed/update/urn:li:activity:7112009257146871808?utm_source=share&utm_medium=member_android) <br /> [Post-2](https://www.linkedin.com/posts/c0c0nconference_cybersecurityconference-c0c0n-speaker-activity-7143202560030498816-Qyhe?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy)|
 
 ## Papers
 
