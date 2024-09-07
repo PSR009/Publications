@@ -2,7 +2,7 @@
 
 ## Blogs and Whitepapers
 
-|Date  |  Title  |  Reference  |
+|Date  |  Title  |  Links  |
 |:-:|:-:|:-:|
 |2023-Jan-11|  Calling from the Underground: An alternative way to penetrate corporate networks |  [Blog](https://www.seqrite.com/blog/calling-from-the-underground-an-alternative-way-to-penetrate-corporate-networks/)  |
 |2023-Feb-01|  Uncovering LockBit Black’s Attack Chain and Anti-forensic activity  |  [Seqrite](https://www.seqrite.com/blog/uncovering-lockbit-blacks-attack-chain-and-anti-forensic-activity/)  <br /> [Quick Heal](https://blogs.quickheal.com/uncovering-lockbit-blacks-attack-chain-and-anti-forensic-activity/)|
@@ -13,18 +13,21 @@
 |2023-Nov-06|  SideCopy’s Multi-platform Onslaught: Leveraging WinRAR Zero-Day and Linux Variant of Ares RAT  |  [Blog](https://www.seqrite.com/blog/sidecopys-multi-platform-onslaught-leveraging-winrar-zero-day-and-linux-variant-of-ares-rat/) <br /> [TheHackerNews](https://thehackernews.com/2023/11/sidecopy-exploiting-winrar-flaw-in.html)|
 |2023-Dec-21|  Operation RusticWeb targets Indian Govt: From Rust-based malware to Web-service exfiltration  |  [Blog](https://www.seqrite.com/blog/operation-rusticweb-targets-indian-govt-from-rust-based-malware-to-web-service-exfiltration/) <br /> [TheHackerNews](https://thehackernews.com/2023/12/operation-rusticweb-rust-based-malware.html)|
 |2024-Apr-24|  Pakistani APTs Escalate Attacks on Indian Gov. Seqrite Labs Unveils Threats and Connections  |  [Blog](https://www.seqrite.com/blog/pakistani-apts-escalate-attacks-on-indian-gov-seqrite-labs-unveils-threats-and-connections/) |
+|2024-Jul-25|  Umbrella of Pakistani Threats: Converging Tactics of Cyber-operations Targeting India  |  [Blog](https://www.seqrite.com/blog/umbrella-of-pakistani-threats-converging-tactics-of-cyber-operations-targeting-india/) |
+|2024-Aug-06|  Unmasking Cronus: How Fake PayPal Documents Deliver Fileless Ransomware via PowerShell  |  [Blog](https://www.seqrite.com/blog/unmasking-cronus-how-fake-paypal-documents-deliver-fileless-ransomware-via-powershell/) |
+|2024-Aug-28|  Operation Oxidový: Sophisticated Malware Campaign Targets Czech Officials Using NATO-Themed Decoys  |  [Blog](https://www.seqrite.com/blog/operation-oxidovy-sophisticated-malware-campaign-targets-czech-officials-using-nato-themed-decoys/) |
 
 ## Speaker
 
-|Date  |  Conference  |  Title  |  Reference  |
+|Date  |  Conference  |  Title  |  Links  |
 |:-:|:-:|:-:|:-:|
-|2022-Dec-01|  [AVAR 2022 Singapore](https://aavar.org/avar2022/) |  Indian Power Sector targeted with latest LockBit 3.0 variant  |  [Abstract](https://aavar.org/avar2022/index.php/indian-power-sector-targeted-with-latest-lockbit-3-0-variant/)  |
-|2023-Oct-07|  [c0c0n 2023 Kochi](https://india.c0c0n.org/2023/)  |  Evasion Tactics of SideCopy & APT36: Persistently targeting the Indian Defence Sector  |  [Post-1](https://www.linkedin.com/feed/update/urn:li:activity:7112009257146871808?utm_source=share&utm_medium=member_android) <br /> [Post-2](https://www.linkedin.com/posts/c0c0nconference_cybersecurityconference-c0c0n-speaker-activity-7143202560030498816-Qyhe?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy)|
-|2024-Apr-24|  [Botconf 2024 France](https://www.botconf.eu/) |  Warp’s Enigma: Unraveling a Sophisticated Golang Malware Ecosystem that drops modified Stealerium  |  [Abstract](https://www.botconf.eu/botconf-presentation-or-article/warps-enigma-unraveling-a-sophisticated-golang-malware-ecosystem-that-drops-modified-stealerium/)  |
-|2024-Oct-03|  [Virus Bulletin 2024 Ireland](https://www.virusbulletin.com/conference/vb2024/) |  Arming WinRAR: deep dive into APTs exploiting WinRAR’s 0-day vulnerability - a SideCopy case study  |  [Abstract](https://www.virusbulletin.com/conference/vb2024/abstracts/arming-winrar-deep-dive-apts-exploiting-winrars-0-day-vulnerability-sidecopy-case-study/)  |
+|2022-Dec-01|  [AVAR 2022 Singapore](https://aavar.org/avar2022/) |  Indian Power Sector targeted with latest LockBit 3.0 variant  |  [Abstract](https://aavar.org/avar2022/index.php/indian-power-sector-targeted-with-latest-lockbit-3-0-variant/) <br /> [Post](https://www.linkedin.com/posts/sathwik-ram-prakki-43770016a_avar-singapore-lockbit-activity-7147140293157339136-Iv9x?utm_source=share&utm_medium=member_desktop) <br /> [Slides](https://github.com/PSR009/Publications/blob/7d928fd8ad51b2314b034f7fdfa18ead647b85d8/presentations/AVAR2022_LockBit3.0.pdf) |
+|2023-Oct-07|  [c0c0n 2023 Kochi](https://india.c0c0n.org/2023/)  |  Evasion Tactics of SideCopy & APT36: Persistently targeting the Indian Defence Sector  |  [Post-1](https://www.linkedin.com/feed/update/urn:li:activity:7112009257146871808?utm_source=share&utm_medium=member_android) <br /> [Post-2](https://www.linkedin.com/posts/c0c0nconference_cybersecurityconference-c0c0n-speaker-activity-7143202560030498816-Qyhe?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy) <br /> [Video](https://youtu.be/-1F6nRbh2fc?si=Y4kcaZMX5qYNqoEg) <br /> [Slides](https://github.com/PSR009/Publications/blob/7d928fd8ad51b2314b034f7fdfa18ead647b85d8/presentations/c0c0n2023_SideCopy_APT36.pdf) |
+|2024-Apr-24|  [Botconf 2024 France](https://www.botconf.eu/) |  Warp’s Enigma: Unraveling a Sophisticated Golang Malware Ecosystem that drops modified Stealerium  |  [Abstract](https://www.botconf.eu/botconf-presentation-or-article/warps-enigma-unraveling-a-sophisticated-golang-malware-ecosystem-that-drops-modified-stealerium/) <br /> [Post](https://www.linkedin.com/posts/sathwik-ram-prakki-43770016a_botconf-france-activity-7191328533955203072-23Xz?utm_source=share&utm_medium=member_desktop) <br /> [Slides](https://github.com/PSR009/Publications/blob/7d928fd8ad51b2314b034f7fdfa18ead647b85d8/presentations/Botconf_2024_Warp_Malware_Ecosystem.pdf) |
+|2024-Oct-03|  [Virus Bulletin 2024 Ireland](https://www.virusbulletin.com/conference/vb2024/) |  Arming WinRAR: Deep dive into APTs exploiting WinRAR’s 0-day vulnerability - a SideCopy case study  |  [Abstract](https://www.virusbulletin.com/conference/vb2024/abstracts/arming-winrar-deep-dive-apts-exploiting-winrars-0-day-vulnerability-sidecopy-case-study/) |
 
 ## Papers
 
-|Date  |  Publisher  |  Title  |  Reference  |
+|Date  |  Publisher  |  Title  |  Links  |
 |:-:|:-:|:-:|:-:|
-|2022-Dec-02|   Springer  |  Intruder Detection and Tracking Using Computer Vision and IoT  |  [Abstract](https://link.springer.com/chapter/10.1007/978-981-19-5550-1_44)  |
+|2022-Dec-02|   Springer  |  Intruder Detection and Tracking Using Computer Vision and IoT  |  [Abstract](https://link.springer.com/chapter/10.1007/978-981-19-5550-1_44) |
