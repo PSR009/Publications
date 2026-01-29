@@ -36,6 +36,7 @@
 |2025-Oct-31|  Operation SkyCloak: Tor Campaign targets Military of Russia & Belarus | [Blog](https://www.seqrite.com/blog/operation-skycloak-tor-campaign-targets-military-of-russia-belarus/) <br/> [TheHackerNews](https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html) |
 |2025-Nov-03|  Operation Peek-a-Baku: Silent Lynx APT makes sluggish shift to Dushanbe | [Blog](https://www.seqrite.com/blog/operation-peek-a-baku-silent-lynx-apt-dushanbe-espionage/) |
 |2025-Dec-08|  Operation FrostBeacon: Multi-Cluster Cobalt Strike Campaign Targets Russia | [Blog](https://www.seqrite.com/blog/operation-frostbeacon-multi-cluster-cobalt-strike-campaign-targets-russia/) <br/> [TheHackerNews](https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html) |
+|2026-Jan-19|  Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan | [Blog](https://www.seqrite.com/blog/operation-nomad-leopard-targeted-spear-phishing-campaign-against-government-entities-in-afghanistan/) <br/> [TheHackerNews](https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html#spear-phishing-delivers-custom-backdoor) <br/> [RecordedFuture](https://therecord.media/hackers-target-afghan-workers) |
 
 ## Speaker
 
@@ -57,7 +58,7 @@
 |Date  |  Event  |  Title  |  Links  |
 |:-:|:-:|:-:|:-:|
 |2025-Feb-08| The Deccan CTF <br/> 0x1337 Hacking Club <br/> IIIT Hyderabad | Hunting Adversaries: Analyzing APT Operations and their Infrastructure | [Post](https://www.linkedin.com/posts/0x1337_excited-to-announce-that-sathwik-ram-prakki-activity-7293138856164409347-7Ry0/) |
-|2025-Nov-22|  SecurityBoat Community – Hyderabad Chapter | Tracking State-Sponsored Attacks Through Malware & Infrastructure Analysis | [Post-1](https://www.linkedin.com/posts/sathwik-ram-prakki-43770016a_hyderabad-were-back-with-our-november-activity-7395093032695611393-PxCk/) <br/> [Post-2](https://www.linkedin.com/posts/securityboat-community_securityboatcommunity-hyderabadcybersec-tprm-ugcPost-7400873814789791749-_lio/) |
+|2025-Nov-22|  SecurityBoat Community – Hyderabad Chapter | Tracking State-Sponsored Attacks Through Malware & Infrastructure Analysis | [Post1](https://www.linkedin.com/posts/sathwik-ram-prakki-43770016a_hyderabad-were-back-with-our-november-activity-7395093032695611393-PxCk/) <br/> [Post2](https://www.linkedin.com/posts/securityboat-community_securityboatcommunity-hyderabadcybersec-tprm-ugcPost-7400873814789791749-_lio/) |
 
 ## Papers
 
