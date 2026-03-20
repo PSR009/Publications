@@ -2,7 +2,7 @@
 
 ## Blogs, Whitepapers and Advisories
 
-|Date  |  Title  |  Links  |
+| Date  |  Title  |  Links  |
 |:-:|:-:|:-:|
 |2023-Jan-11|  Calling from the Underground: An alternative way to penetrate corporate networks |  [Blog](https://www.seqrite.com/blog/calling-from-the-underground-an-alternative-way-to-penetrate-corporate-networks/)  |
 |2023-Feb-01|  Uncovering LockBit Black’s Attack Chain and Anti-forensic activity  |  [Seqrite](https://www.seqrite.com/blog/uncovering-lockbit-blacks-attack-chain-and-anti-forensic-activity/)  <br /> [Quick Heal](https://blogs.quickheal.com/uncovering-lockbit-blacks-attack-chain-and-anti-forensic-activity/)|
@@ -42,7 +42,7 @@
 
 ## Speaker
 
-|Date  |  Conference  |  Title  |  Links  |
+| Date  |  Conference  |  Title  |  Links  |
 |:-:|:-:|:-:|:-:|
 |2022-Dec-01| [AVAR 2022](https://aavar.org/avar2022/) <br /> Singapore |  Indian Power Sector targeted with latest LockBit 3.0 variant  |  [Abstract](https://aavar.org/avar2022/index.php/indian-power-sector-targeted-with-latest-lockbit-3-0-variant/) <br /> [Slides](https://github.com/PSR009/Publications/blob/7d928fd8ad51b2314b034f7fdfa18ead647b85d8/presentations/AVAR2022_LockBit3.0.pdf) <br /> [Post](https://www.linkedin.com/posts/sathwik-ram-prakki-43770016a_avar-singapore-lockbit-activity-7147140293157339136-Iv9x/) |
 |2023-Oct-07| [c0c0n 2023](https://india.c0c0n.org/2023/) <br /> Kochi, India |  Evasion Tactics of SideCopy & APT36: Persistently targeting the Indian Defence Sector  |  [Post-1](https://www.linkedin.com/feed/update/urn:li:activity:7112009257146871808?utm_source=share&utm_medium=member_android) <br /> [Post-2](https://www.linkedin.com/posts/c0c0nconference_cybersecurityconference-c0c0n-speaker-activity-7143202560030498816-Qyhe?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy) <br/> [Slides](https://github.com/PSR009/Publications/blob/7d928fd8ad51b2314b034f7fdfa18ead647b85d8/presentations/c0c0n2023_SideCopy_APT36.pdf) <br /> [Recording](https://youtu.be/-1F6nRbh2fc?si=Y4kcaZMX5qYNqoEg) |
@@ -57,13 +57,33 @@
 
 ## Local Talks
 
-|Date  |  Event  |  Title  |  Links  |
+| Date  |  Event  |  Title  |  Links  |
 |:-:|:-:|:-:|:-:|
 |2025-Feb-08| The Deccan CTF <br/> 0x1337 Hacking Club <br/> IIIT Hyderabad | Hunting Adversaries: Analyzing APT Operations and their Infrastructure | [Post](https://www.linkedin.com/posts/0x1337_excited-to-announce-that-sathwik-ram-prakki-activity-7293138856164409347-7Ry0/) |
 |2025-Nov-22|  SecurityBoat Community – Hyderabad Chapter | Tracking State-Sponsored Attacks Through Malware & Infrastructure Analysis | [Post1](https://www.linkedin.com/posts/sathwik-ram-prakki-43770016a_hyderabad-were-back-with-our-november-activity-7395093032695611393-PxCk/) <br/> [Post2](https://www.linkedin.com/posts/securityboat-community_securityboatcommunity-hyderabadcybersec-tprm-ugcPost-7400873814789791749-_lio/) |
 
 ## Papers
 
-|Date  |  Publisher  |  Title  |  Links  |
+| Date  |  Publisher  |  Title  |  Links  |
 |:-:|:-:|:-:|:-:|
 |2022-Dec-02|   Springer  |  Intruder Detection and Tracking Using Computer Vision and IoT  |  [Abstract](https://link.springer.com/chapter/10.1007/978-981-19-5550-1_44) |
+
+## Courses and Certification
+
+| Date  |  Provider |  Title  |  Links  |
+|:-:|:-:|:-:|:-:|
+|2020     | Pentester Academy | Reversing Win32 Apps |  |
+|2021-Mar | NULLCON | Hacking Modern Desktop Apps |  |
+|2026     | Intel-Ops | Hunting Adversary Infrastructure |  |
+
+## Awards and Recognition
+
+| Date  |  Company  |  Title  |
+|:-:|:-:|:-:|
+| 2022-Mar-29 |  Quick Heal  | [Kudos](https://lifecycleqhtl.darwinbox.in/rewardspost?data=323153644e6c6777485274793739547638644a4e4c2f375730493238373034434452714a77464d2b457345334d4d6c72754a702f36312f6b6539416a3470644d) |
+| 2023-Mar-06 |  Quick Heal  | [Budding Star](https://lifecycleqhtl.darwinbox.in/rewardspost?data=4c32364f31724b4f747a6f342b537542677a2f6b494e57695457612f5a5741764466356c316d7947434a697039616f6873704b71465a7749636c3132494d5841) |
+| 2024-Feb-01 |  Quick Heal  | [Employee of the Month](https://lifecycleqhtl.darwinbox.in/rewardspost?data=616d58412b49653551567034654f756965494d496a567037625170706966486a4c2f757736792b394673667437434838674b6e7448736d427968724446586b7a) |
+| 2024-Jul-11 |  Quick Heal  | [SPOT Award](https://lifecycleqhtl.darwinbox.in/rewardspost?data=396379444959303749772f797478506c74663537324b366758505458586373787342654b72725266636b3962584e7445627263326245374c51536d6d732f4341) |
+| 2024-Oct-30 |  Quick Heal  | [Excellence Awards](https://lifecycleqhtl.darwinbox.in/rewardspost?data=6b33317745484c306b674677643261344f31637a623658634731742b72636157774679766637677957556f4148586c347431362f7961754c395470414d496368) |
+| 2025-Mar-13 |  Quick Heal  | [Innovation Week Special Award](https://lifecycleqhtl.darwinbox.in/rewardspost?data=3734592f7a34654d516e774336696656786946744f5165714f53373876754449424d5536423048764a354f626f4c5738346f73486a7a35694c31666b56524c55) |
+| 2025-Dec-04 |  Quick Heal  | [Excellence Awards](https://lifecycleqhtl.darwinbox.in/rewardspost?data=7944774e514b346f4252566863504d5552776f7535534357774d6956477767612f56786e6e517843456c796a764538482b626b744c73392f79354a674a634775) |
