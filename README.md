@@ -1,13 +1,13 @@
 # Publications and Conferences
 
 ## Contents
-- [Blogs, Whitepapers and Advisories](https://github.com/PSR009/Publications/edit/main/README.md#blogs-whitepapers-and-advisories)
-- [Conference Speaker](https://github.com/PSR009/Publications/edit/main/README.md#conference-speaker)
-- [Trainings](https://github.com/PSR009/Publications/edit/main/README.md#trainings)
-- [Local Talks](https://github.com/PSR009/Publications/edit/main/README.md#local-talks)
-- [Papers](https://github.com/PSR009/Publications/edit/main/README.md#papers)
-- [Courses and Certification](https://github.com/PSR009/Publications/edit/main/README.md#courses-and-certification)
-- [Awards and Recognition](https://github.com/PSR009/Publications/edit/main/README.md#awards-and-recognition)
+- [Blogs, Whitepapers and Advisories](https://github.com/PSR009/Publications/blob/main/README.md#blogs-whitepapers-and-advisories)
+- [Conference Speaker](https://github.com/PSR009/Publications/blob/main/README.md#conference-speaker)
+- [Trainings](https://github.com/PSR009/Publications/blob/main/README.md#trainings)
+- [Local Talks](https://github.com/PSR009/Publications/blob/main/README.md#local-talks)
+- [Papers](https://github.com/PSR009/Publications/blob/main/README.md#papers)
+- [Courses and Certification](https://github.com/PSR009/Publications/blob/main/README.md#courses-and-certification)
+- [Awards and Recognition](https://github.com/PSR009/Publications/blob/main/README.md#awards-and-recognition)
 
 ## Blogs, Whitepapers and Advisories
 
