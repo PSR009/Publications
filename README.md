@@ -1,5 +1,14 @@
 # Publications and Conferences
 
+## Contents
+- [Blogs, Whitepapers and Advisories](https://github.com/PSR009/Publications/edit/main/README.md#blogs-whitepapers-and-advisories)
+- [Conference Speaker](https://github.com/PSR009/Publications/edit/main/README.md#conference-speaker)
+- [Trainings](https://github.com/PSR009/Publications/edit/main/README.md#trainings)
+- [Local Talks](https://github.com/PSR009/Publications/edit/main/README.md#local-talks)
+- [Papers](https://github.com/PSR009/Publications/edit/main/README.md#papers)
+- [Courses and Certification](https://github.com/PSR009/Publications/edit/main/README.md#courses-and-certification)
+- [Awards and Recognition](https://github.com/PSR009/Publications/edit/main/README.md#awards-and-recognition)
+
 ## Blogs, Whitepapers and Advisories
 
 | Date  |  Title  |  Links  |
@@ -38,9 +47,10 @@
 |2025-Dec-08|  Operation FrostBeacon: Multi-Cluster Cobalt Strike Campaign Targets Russia | [Blog](https://www.seqrite.com/blog/operation-frostbeacon-multi-cluster-cobalt-strike-campaign-targets-russia/) <br/> [TheHackerNews](https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html) |
 |2026-Jan-19|  Operation Nomad Leopard: Targeted Spear-Phishing Campaign Against Government Entities in Afghanistan | [Blog](https://www.seqrite.com/blog/operation-nomad-leopard-targeted-spear-phishing-campaign-against-government-entities-in-afghanistan/) <br/> [TheHackerNews](https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html#spear-phishing-delivers-custom-backdoor) <br/> [RecordedFuture](https://therecord.media/hackers-target-afghan-workers) |
 |2026-Mar-13|  Operation CamelClone: Multi-Region Espionage Campaign Targets Government and Defense Entities Amidst Regional Tensions | [Blog](https://www.seqrite.com/blog/operation-camelclone-multi-region-espionage-campaign-targets-government-and-defense-entities-amidst-regional-tensions/) <br/> [TheHackerNews](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html) |
-|2026-Mar-17|  Operation GhostMail: Russian APT exploits Zimbra Webmail to Target Ukraine State Agency | [Blog](https://www.seqrite.com/blog/operation-ghostmail-zimbra-xss-russian-apt-ukraine/) <br/> [CISA-KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-66376) <br/> [TheHackerNews](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html) <br/> [Bleeping-Computer](https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/) |
+|2026-Mar-17|  Operation GhostMail: Russian APT exploits Zimbra Webmail to Target Ukraine State Agency | [Blog](https://www.seqrite.com/blog/operation-ghostmail-zimbra-xss-russian-apt-ukraine/) <br/> [CISA-KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-66376) <br/> [TheHackerNews](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html) <br/> [BleepingComputer](https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/) <br/> [NSA/FBI/CISA](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4553352/nsa-and-partners-alert-zimbra-collaboration-suite-users-of-a-russian-state-supp/) |
+|2026-Jul-23|  JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake | [Blog](https://www.group-ib.com/blog/jadeprox-china-nexus-triback-loader/) <br/> [TheHackerNews](https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html) |
 
-## Speaker
+## Conference Speaker
 
 | Date  |  Conference  |  Title  |  Links  |
 |:-:|:-:|:-:|:-:|
@@ -54,6 +64,13 @@
 |2025-Jul-23| [Positive Hack Talks](https://phtalks.ptsecurity.com/jakarta) <br/> Jakarta, Indonesia | UNG0002: Regional Threat Operations tracked across multiple Asian jurisdictions | [Post](https://www.linkedin.com/posts/subhajeet-singha-b238951a9_phtalks-ugcPost-7353739267006746624-7_Zd/) |
 |2025-Sep-24| [Virus Bulletin 2025](https://www.virusbulletin.com/conference/vb2025/) <br/> Berlin, Germany | Silent Lynx: uncovering a cyber espionage campaign in Central Asia <br/> <br/> and <br/> <br/> Unmasking the GrassCall campaign: the hackers behind job recruitment cyber scams | [Abstract](https://www.virusbulletin.com/conference/vb2025/abstracts/silent-lynx-uncovering-cyber-espionage-campaign-central-asia/) <br/> [Slides](https://www.virusbulletin.com/uploads/pdf/conference/vb2025/slides/Slides-Silent-Lynx-uncovering-a-cyber-espionage-campaign-in-Central-Asia.pdf) <br/> [Recording](https://youtu.be/EvHq2YPxxaY?si=GDZlcSzPmpELgIvK) <br/> [Paper](https://www.virusbulletin.com/uploads/pdf/conference/vb2025/papers/Silent-Lynx-uncovering-a-cyber-espionage-campaign-in-Central-Asia.pdf) <br/> [Post-1](https://www.linkedin.com/posts/sathwik-ram-prakki-43770016a_we-sathwik-ram-prakki-me-have-had-the-activity-7378365071212720128-8Cu0) <br/> [Post-2](https://www.linkedin.com/posts/sathwik-ram-prakki-43770016a_vb2025-activity-7399434681269678080-ScvJ) <br/> <br/> Talk-2 <br/> [All-Links](https://www.virusbulletin.com/conference/vb2025/abstracts/unmasking-grasscall-campaign-hackers-behind-job-recruitment-cyber-scams/) |
 |2025-Dec-04| [AVAR 2025](https://events.aavar.org/cybersecurity-conference/index.php/agenda/) <br/> Kuala Lumpur, Malaysia | Operation DRAGONCLONE: Chinese Telecommunication industry targeted via VELETRIX & VShell malware <br/> <br/> and <br/> <br/> (Reserved) Unveiling Swan Vector APT Targeting Taiwan and Japan with varied DLL Implants | [Abstract](https://events.aavar.org/cybersecurity-conference/index.php/operation-dragonclone-chinese-telecommunication-industry-targeted-via-veletrix-vshell-malware/) <br/> [Post](https://www.linkedin.com/posts/sathwik-ram-prakki-43770016a_avar2025-activity-7403305673431740418-esvt) |
+
+## Trainings
+
+| Date  |  Conference  |  Title  |  Links  |
+|:-:|:-:|:-:|:-:|
+| 06-08 Oct, 2026 | [c0c0n 2026](https://c0c0n.org/threat-tradecraft-infrastructure-hunting-and-malware-analysis) <br/> Kochi, India | Threat Tradecraft: Infrastructure Hunting & Malware Analysis |  [Official](https://www.linkedin.com/feed/update/urn:li:activity:7452678462584053760/) <br/> [Promote](https://www.linkedin.com/feed/update/urn:li:activity:7480232247153856514/) |
+| 24-26 Nov, 2026 <br/> (Online) | [Black Hat MEA](https://blackhatmea.com/trainings-list/2026/threat-tradecraft-infrastructure-hunting-malware-analysis?utm_source=direct&utm_medium=direct&utm_campaign=Unspecified) <br/> Riyadh, Saudi Arabia | Threat Tradecraft: Infrastructure Hunting & Malware Analysis | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7483062522795847680/) <br /> [Twitter/X](https://x.com/PrakkiSathwik/status/2077363427081916702) |
 
 ## Local Talks
 
@@ -70,11 +87,11 @@
 
 ## Courses and Certification
 
-| Date  |  Provider |  Title  |  Links  |
+| Date  |  Provider |  Title  |  By  |
 |:-:|:-:|:-:|:-:|
-|2020     | Pentester Academy | Reversing Win32 Apps |  |
-|2021-Mar | NULLCON | Hacking Modern Desktop Apps |  |
-|2026     | Intel-Ops | Hunting Adversary Infrastructure |  |
+|2020     | Pentester Academy | Reversing Win32 Apps | Employer (C-DAC) |
+|2021-Mar | NULLCON | Hacking Modern Desktop Apps | Employer (C-DAC) |
+|2026     | Intel-Ops | Hunting Adversary Infrastructure | Employer (Quick Heal) |
 
 ## Awards and Recognition
 
